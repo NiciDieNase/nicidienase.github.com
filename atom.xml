@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://NiciDieNase.github.com/atom.xml" rel="self"/>
   <link href="http://NiciDieNase.github.com/"/>
-  <updated>2012-06-07T22:51:28+02:00</updated>
+  <updated>2012-06-07T23:01:46+02:00</updated>
   <id>http://NiciDieNase.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,18 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://NiciDieNase.github.com/blog/2012/06/07/test/"/>
-    <updated>2012-06-07T20:13:00+02:00</updated>
-    <id>http://NiciDieNase.github.com/blog/2012/06/07/test</id>
-    <content type="html"><![CDATA[<p>==Foo==</p>
-
-<p><em>hello
-</em>world</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[CCCamp-OhrwÃ¼rmer]]></title>
