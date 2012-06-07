@@ -1,11 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/06/25/hello-world-2/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/06/30/nordkorea-dokus/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/07/01/festwochenende/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/07/09/twilight-for-guys/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://NiciDieNase.github.com/blog/2010/07/16/yeah-mein-blog-ist-wieder-erreichbar/
+        </loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/07/18/videos-18-7-2010/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/10/18/serverstatistik/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/11/19/twitter-wandkalender-2011/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2010/12/21/meine-neue-ssd/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2011/01/18/lustig/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2011/01/25/clifford-stoll-on-everything/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://NiciDieNase.github.com/blog/2011/05/06/neuer-server-neues-layout-alter-inhalt/
+        </loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2011/05/12/serverumzug-abgeschlossen/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2011/08/15/awesome-daft-punk-mashup/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2011/08/20/cccamp-ohrwurmer/</loc>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/blog/2012/06/07/test/</loc>
+        <lastmod>2012-06-07T20:14:01+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/test/</loc>
+        <lastmod>2012-06-07T20:12:14+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://NiciDieNase.github.com/blog/archives/</loc>
-        <lastmod>2012-06-07T20:03:55+02:00</lastmod>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
     </url>
     <url>
         <loc>http://NiciDieNase.github.com/</loc>
-        <lastmod>2012-06-07T20:03:55+02:00</lastmod>
+        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
     </url>
 </urlset>

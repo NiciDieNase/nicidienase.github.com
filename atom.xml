@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://NiciDieNase.github.com/atom.xml" rel="self"/>
   <link href="http://NiciDieNase.github.com/"/>
-  <updated>2012-06-07T20:05:56+02:00</updated>
+  <updated>2012-06-07T22:51:28+02:00</updated>
   <id>http://NiciDieNase.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,483 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2012/06/07/test/"/>
+    <updated>2012-06-07T20:13:00+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2012/06/07/test</id>
+    <content type="html"><![CDATA[<p>==Foo==</p>
+
+<p><em>hello
+</em>world</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CCCamp-OhrwÃ¼rmer]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2011/08/20/cccamp-ohrwurmer/"/>
+    <updated>2011-08-20T00:14:53+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2011/08/20/cccamp-ohrwurmer</id>
+    <content type="html"><![CDATA[<iframe width="420" height="345" src="http://www.youtube.com/embed/eOvibLXJxQ8" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<iframe width="420" height="345" src="http://www.youtube.com/embed/wZZ7oFKsKzY" frameborder="0" allowfullscreen></iframe>
+
+
+<p><a href="http://www.getpersonas.com/en-US/persona/401024">Meine neue Firefox-Persona</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Awesome Daft Punk Mashup Visualisation]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2011/08/15/awesome-daft-punk-mashup/"/>
+    <updated>2011-08-15T20:00:04+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2011/08/15/awesome-daft-punk-mashup</id>
+    <content type="html"><![CDATA[<p><a href="http://daftpunk.themaninblue.com/">
+<img src="http://NiciDieNase.github.com/wp-content/uploads/2011/08/Definitive-Daft-Punk-visualised-1024x661.png" alt="" title="Definitive Daft Punk visualised" width="695" height="448" class="aligncenter size-large wp-image-222" />
+</a>
+<a href="http://daftpunk.themaninblue.com/"><strong>Link</strong></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Serverumzug abgeschlossen]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2011/05/12/serverumzug-abgeschlossen/"/>
+    <updated>2011-05-12T00:35:58+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2011/05/12/serverumzug-abgeschlossen</id>
+    <content type="html"><![CDATA[<p>So, mein Blog und Wiki sind jetzt fertig auf den neuen Server umgezogen und nen Mailserver hab ich auch eingerichtet.
+Wenn ihr wollt könnt ihr mich jetzt alle auch unter mail@nicidienase.de erreichen.
+Es gibt zwar immer noch genug Kleinigkeiten an denen ich noch rumbasteln kann, aber ich betrachte den Umzug jetzt mal als abgeschlossen</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Neuer Server, Neues Layout, alter Inhalt]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2011/05/06/neuer-server-neues-layout-alter-inhalt/"/>
+    <updated>2011-05-06T15:01:04+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2011/05/06/neuer-server-neues-layout-alter-inhalt</id>
+    <content type="html"><![CDATA[<p>Mein Blog is umgezogen auf nen richtigen Server mit ner ordentlichen Domain, net mehr dieses gefrickel mit altem Rechner am WLAN und DynDNS.</p>
+
+<p>Die Inhalte sind größtenteils auch schon da, der Rest kommt noch nach &#8230; vieleicht &#8230; irgendwann &#8230;.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Clifford Stoll on ... everything]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2011/01/25/clifford-stoll-on-everything/"/>
+    <updated>2011-01-25T18:14:12+01:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2011/01/25/clifford-stoll-on-everything</id>
+    <content type="html"><![CDATA[<p>Sehr, sehr sehenswert! Falls ihr mehr über den Mann wissen wollt, <a href="http://de.wikipedia.org/wiki/Clifford_Stoll">Wikipedia</a> hilft.</p>
+
+<object width="334" height="326"><param name="movie" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"></param><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"></param><param name="bgColor" value="#ffffff"></param> <param name="flashvars" value="vu=http://video.ted.com/talks/dynamic/CliffordStoll_2006-medium.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/CliffordStoll-2006.embed_thumbnail.jpg&vw=320&vh=240&ap=0&ti=237&lang=eng&introDuration=15330&adDuration=4000&postAdDuration=830&adKeys=talk=clifford_stoll_on_everything;year=2006;theme=how_we_learn;theme=bold_predictions_stern_warnings;theme=presentation_innovation;event=TED2006;tag=Culture;tag=Science;tag=Technology;tag=education;tag=web;&preAdTag=tconf.ted/embed;tile=1;sz=512x288;" /><embed src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" pluginspace="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" bgColor="#ffffff" width="334" height="326" allowFullScreen="true" allowScriptAccess="always" flashvars="vu=http://video.ted.com/talks/dynamic/CliffordStoll_2006-medium.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/CliffordStoll-2006.embed_thumbnail.jpg&vw=320&vh=240&ap=0&ti=237&lang=eng&introDuration=15330&adDuration=4000&postAdDuration=830&adKeys=talk=clifford_stoll_on_everything;year=2006;theme=how_we_learn;theme=bold_predictions_stern_warnings;theme=presentation_innovation;event=TED2006;tag=Culture;tag=Science;tag=Technology;tag=education;tag=web;"></embed></object>
+
+
+<p><a href="http://www.ted.com/index.php/talks/clifford_stoll_on_everything.html">http://www.ted.com/index.php/talks/clifford_stoll_on_everything.html</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lustig]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2011/01/18/lustig/"/>
+    <updated>2011-01-18T23:00:27+01:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2011/01/18/lustig</id>
+    <content type="html"><![CDATA[<p>Bin heute über drei lustige Sachen gestolbert die ich mit der Welt teilen wollte.</p>
+
+<!--more-->
+
+
+<p><img class="alignnone" title="Land of Opportunities" src="http://fun.drno.de/pics/english/zi8b.jpg" alt="" width="480" height="358" /></p>
+
+<hr />
+
+
+<p><img class="alignnone" title="software-development" src="http://samaxes.appspot.com/images/software-development.jpg" alt="" width="499" height="1203" /></p>
+
+<p>&nbsp;</p>
+
+<hr />&nbsp;
+
+
+<p><a name="Berufsprofile"><span style="font-size: medium;"><strong>Berufsprofile
+oder Wie jagt Wer einen Elefanten</strong></span></a></p>
+
+<p>PHYSIKER jagen Elefanten, indem sie nach Afrika gehen, alles
+hinauswerfen, was kein Elefant ist und fangen, was übrigbleibt.</p>
+
+<p>MATHEMATIKER werden versuchen, die Existenz von wenigstens
+einem Elefanten zu beweisen, bevor sie weiter verfahren wie oben.</p>
+
+<p>ERFAHRENE MATHEMATIKER beweisen die Existenz eines
+theoretischen Elefanten und überlassen dann das Jagen eines
+realen Elefanten den Physikern.</p>
+
+<p>PROGRAMMIERER jagen Elefanten durch Abarbeitung von
+Algorithmus A:</p>
+
+<ol>
+    <li>Gehe nach Afrika</li>
+    <li>Starte am Kap der Guten Hoffnung</li>
+    <li>Arbeite systematisch nordwärts, dabei alternativ
+östlich und westlich pendelnd</li>
+    <li>Bei jeder Pendelbewegung
+<ol type="a">
+    <li>fange jedes gesichtete Tier</li>
+    <li>vergleiche jedes gefangene Tier mit einem
+bekannten Elefanten</li>
+    <li>halte an, wenn Übereinstimmung besteht</li>
+</ol>
+</li>
+</ol>
+
+
+<p>ERFAHRENE PROGRAMMIERER modifizieren Algorithmus A durch
+Plazierung eines bekannten Elefanten in Kairo, um
+sicherzustellen, daß der Algorithmus terminiert wird.</p>
+
+<p>CONSULTANTS jagen keine Elefanten, haben möglicherweise nie
+irgendetwas gejagt, können aber auf Stunden- oder Tagesbasis
+engagiert werden, um diejenigen, welche jagen sollen, zu
+unterweisen.</p>
+
+<p>JUNIOR-EDV-VERKÄUFER verpacken das erste Ding, was sie sehen
+und erstellen eine Rechnung für einen Elefanten.</p>
+
+<p>HARDWARE-VERKÄUFER fangen Kaninchen, streichen sie grau, und
+verkaufen sie als Desktop-Elefanten.</p>
+
+<p>SOFTWARE-VERKÄUFER jagen keine Elefanten, sondern verbringen
+ihre Zeit damit, Elefanten, welche sie nicht gefangen haben, zu
+verkaufen, mit Lieferdatum zwei Tage vor Eröffnung der
+Jagdsaison. Wenn die Elefanten dann nicht lieferbar sind,
+versenden sie Mäuse als First Customer Shipment und verweisen
+die Kunden auf das nächste Release, welche die zugesicherten
+Elefanten-Eigenschaften dann sicher enthalten wird.</p>
+
+<p>&nbsp;</p>
+
+<hr />
+
+
+<p><a name="Version2">VERSION 2</a></p>
+
+<p>&nbsp;</p>
+
+<p>Enjoy
+WER jagt WIE Elefanten?
+Letzten Punkt ganz unten beachten!</p>
+
+<p>INFORMATIKER jagen Elefanten, indem sie Algorithmus A
+ausführen:</p>
+
+<pre>begin
+{
+   Gehe nach Afrika
+   Beginne am Kap der guten Hoffnung
+   Durchkreuze Afrika von Süden nach Norden bidirektional in Ost-West-Richtung
+   Für jedes Durchkreuzen tue
+   {
+      Fange jedes Tier, das Du siehst
+      Vergleiche jedes gefangene Tier mit einem als Elefant bekannten Tier
+      Halte an bei Übereinstimmung
+   }
+}</pre>
+
+
+<p>ERFAHRENE PROGRAMMIERER verändern Algorithmus A, indem sie
+ein als Elefant bekanntes Tier in Kairo plazieren, damit das
+Programm in jedem Fall korrekt beendet wird.</p>
+
+<p>ASSEMBLER-PROGRAMMIERER bevorzugen die Ausführung von
+Algorithmus A auf Händen und Knien.</p>
+
+<p>SQL-PROGRAMMIERER verwenden folgenden Ausdruck:
+SELECT Elefant FROM Afrika.</p>
+
+<p>NATURAL-PROGRAMMIERER lassen sich von ADABAS einen Elefanten
+bringen.</p>
+
+<p>LOGO-PROGRAMMIERER reiten durch Afrika auf ihrer Schildkröte.</p>
+
+<p>COBOL-PROGRAMMIERER tun dies auf einem Dinosaurier.</p>
+
+<p>BASIC-PROGRAMMIERER bevorzugen jedoch einen mit Samt
+ausgepolsterten Einspänner, bei dem die Bremsen ständig
+angezogen sind.</p>
+
+<p>C-PROGRAMMIERER bestimmen zuerst mit sizeof() die nötige
+Speichermenge für einen Elefanten, versuchen diese zu
+allozieren, vergessen dabei das Ergebnis abzuprüfen und
+schießen dann mit wilden Pointern auf den Elefanten.</p>
+
+<p>C++Programmierer bestehen darauf, daß der Elefant eine Klasse
+sei, und somit schließlich seine Fang-Methoden selbst
+mitzubringen habe. Und wenn der Elefant Afrika verlassen sollte,
+dann wird ja automatisch sein Destruktor ausgelöst.</p>
+
+<p>PASCAL-PROGRAMMIERER markieren zuerst einen Punkt auf der
+Landkarte, schreiben dann END davor und träumen davon, daß
+Nikolaus Wirth von einem Elefanten totgetrampelt wird.</p>
+
+<p>MODULA-PROGRAMMIERER importieren einen Elefanten aus/von einem
+Zoo.</p>
+
+<p>LISP-PROGRAMMIERER bauen einen Irrgarten aus Klammern und
+hoffen, daß sich der Elefant darin verirrt.</p>
+
+<p>MATHEMATIKER jagen Elefanten, indem sie nach Afrika gehen,
+alles entfernen, was nicht Elefant ist und ein Element der
+Restmenge fangen.</p>
+
+<p>ERFAHRENE MATHEMATIKER werden zunächst versuchen, die
+Existenz mindestens eines eineindeutigen Elefanten zu beweisen,
+bevor sie mit Schritt 1 als untergeordneter Übungsaufgabe
+fortfahren.</p>
+
+<p>MATHEMATIKPROFESSOREN beweisen die Existenz mindestens eines
+eineindeutigen Elefanten und überlassen dann das Aufspüren und
+Einfangen eines tatsächlichen Elefanten ihren Studenten.</p>
+
+<p>INGENIEURE jagen Elefanten, indem sie nach Afrika gehen, jedes
+graue Tier fangen, das ihnen über den Weg läuft und es als
+Elefant nehmen, wenn das Gewicht nicht mehr als 15% von dem eines
+vorher gefangenem Elefanten abweicht.</p>
+
+<p>WIRTSCHAFTSWISSENSCHAFTLER jagen keine Elefanten. Aber sie
+sind fest davon überzeugt, daß die Elefanten sich selber
+stellen würden, wenn man ihnen nur genug bezahlt.</p>
+
+<p>STATISTIKER jagen das erste Tier, das sie sehen n-mal und
+nennen es Elefant.</p>
+
+<p>UNTERNEHMENSBERATER jagen keine Elefanten. Und viele haben
+noch niemals überhaupt irgendetwas gejagt. Aber man kann sie
+stundenweise engagieren, um sich gute Ratschläge geben zu
+lassen.</p>
+
+<p>SYSTEMANALYTIKER wären theoretisch in der Lage, die
+Korrelation zwischen Hutgröße und Trefferquote bei der
+Elefantenjagd zu bestimmen, wenn ihnen nur jemand sagen würde,
+was ein Elefant ist.</p>
+
+<p>SAP-SYSTEMINGENIEURE erklären das erstbeste Tier zu einem
+Elefanten und passen Ihre Vorstellungen eines Elefanten an dieses
+Tier an.</p>
+
+<p>MICROSOFT kauft einen Elefanten aus dem Zoo in Seattle,
+kopiert ihn massenhaft, redet aller Welt ein, daß jeder einen
+bräuchte und daß dieser die ideale Ergänzung zu MS Office sei
+und exportiert 14 Mio. Stück nach Afrika.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meine neue SSD]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/12/21/meine-neue-ssd/"/>
+    <updated>2010-12-21T22:02:55+01:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/12/21/meine-neue-ssd</id>
+    <content type="html"><![CDATA[<p>Vor ner Weile hab ich meinem Netbook eine SSD gegönnt. Die große 250GB-Platte die da drin war hab ich eh nicht gebraucht und ne SSD is sowieso viel toller und schneller als eine klassische Festplatte (leider nur deutlich teurer). Die ganze Umbauaktion hab ich mit meiner Handykamera festgehalten (ne bessere Kamera hatte ich leider grade nicht da).</p>
+
+<p>Der Ganze Umbau ging so:
+Akku entfernen und Schrauben aufschrauben
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-185725.jpg"><img class="alignnone size-medium wp-image-133" title="PRE_2010-12-01-185725" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-185725-300x224.jpg" alt="" width="300" height="224" /></a></p>
+
+<!--more-->
+
+
+<p>Vorsichtig die Tastatur vom Rest des Gehäuses lösen
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-185915.jpg"><img class="alignnone size-medium wp-image-134" title="PRE_2010-12-01-185915" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-185915-300x224.jpg" alt="" width="300" height="224" /></a></p>
+
+<!--more-->
+
+
+<p>Vorsichtig das Flexkabel mit dem die Tastatur mit der Hauptplatine verbunden ist lösen
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-190055.jpg"><img class="alignnone size-medium wp-image-135" title="PRE_2010-12-01-190055" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-190055-300x224.jpg" alt="" width="300" height="224" /></a></p>
+
+<p>Jetzt muss das Garantiesiegel gebrochen werden und alle Schrauben mit der das große Plastikteil das die Platine abdeckt und wo das Touchpad mit dranhängt befestigt ist entfernt werden. Dann sollte man noch durch die kleine Lücke in der Plastikabdeckung noch das kleine Flexkabel vom Touchpad zur Platine trennen und dann kann das Teil abgenommen werden dann schaut das so aus:
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-190914.jpg"><img class="alignnone size-medium wp-image-136" title="PRE_2010-12-01-190914" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-190914-300x224.jpg" alt="" width="300" height="224" /></a></p>
+
+<p>Jetzt gibts nochmal zwei Flexkabel die direkt über die Festplatte gehn, die muss man auch noch los machen und dann sinds noch zwei Schrauben und die alte Platte is drausen
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-191041.jpg"><img class="alignnone size-medium wp-image-137" title="PRE_2010-12-01-191041" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-191041-300x224.jpg" alt="" width="300" height="224" /></a>
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-191331.jpg"><img class="alignnone size-medium wp-image-138" title="PRE_2010-12-01-191331" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-191331-300x224.jpg" alt="" width="300" height="224" /></a></p>
+
+<p>Jetzt muss man nur noch die SSD so reinbauen wie die Festplatte drin war und alles wieder so zusammen stecken und schrauben wie es vorher war und schon hat man n schöneres, schnelleres, stromsparenderes Netbook.
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-191808.jpg"><img class="alignnone size-medium wp-image-140" title="PRE_2010-12-01-191808" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-191808-300x224.jpg" alt="" width="300" height="224" /></a>
+<a href="wp-content/uploads/2010/12/PRE_2010-12-01-191749.jpg"><img class="alignnone size-medium wp-image-139" title="PRE_2010-12-01-191749" src="http://NiciDieNase.github.com/wp-content/uploads/2010/12/PRE_2010-12-01-191749-300x224.jpg" alt="" width="300" height="224" /></a></p>
+
+<p>Die SSD die man auf den Fotos sieht (eine OCZ Agility2) is übrigends nicht die die ich jetzt drin hab. Die war zwar ganz schick und schnell und so, nur hatte der Sandforce-Controller den die benutzt unter Linux leider irgendwie Probleme mit dem Standby.
+Deswegen hab ich sie dann gegen eine OCZ Vertex getauscht, die is zwar nicht ganz so schnell was Lese- und Schreibzeiten angeht, aber auf nem Netbook mit nem Atom-Prozessor merkt man da eh keinen Unterschied aber dafür funktioniert der Standby und sie war auch noch n paar Euro billiger.
+Die SSDs haben übrigends beide 64GB und knapp über bzw. knapp unter 100€ gekostet, falls es jemanden interessiert.
+Und für n paar Euro hab ich noch ein externes Gehäuse für die alte Platte gekauft, da kann ich jetzt schön Backups und sonst was mit machen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[[Update] Twitter Wandkalender 2011]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/11/19/twitter-wandkalender-2011/"/>
+    <updated>2010-11-19T18:24:47+01:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/11/19/twitter-wandkalender-2011</id>
+    <content type="html"><![CDATA[<p>Ich hab mir schon Sorgen gemacht was ich nächstes Jahr an die Stelle hängen soll an der jetzt mein Twitter-Wandkalender hängt.
+Aber ich muss mir keine Sorgen mehr machen. Es gibt einen Twitter Follow me Kalender für 2011 von <a href="https://www.meinedruckfabrik.de/">meinedruckfabrik.de</a>.
+Alles was man machen muss ist einen Blogeintrag schreiben und von der <a href="http://wallace-media.de/twitter/">Aktion</a> berichten, was ich ja hier gerade mache.</p>
+
+<p>meinedruckfabrik.de ist übrigends eine Online-Druckerei die Flyer, Plakate, Kataloge und noch viel mehr drucken. Wenn ihr als mal irgendwas zu drucken habt schaut doch mal da vorbei. <a href="https://www.meinedruckfabrik.de/">[Link]</a></p>
+
+<p>[Update:] Inzwischen hängt der Kalender bei mir an der Wand und wird auch gut benutzt.
+Ich muss allerdings sagen das mir der Kalender von Druckerei.de von letztem Jahr besser gefallen hat, der war erstens größer, zweiten hab ich damals glaube ich 10 Stück oder so gekriegt, sie wurden ordentlich gerollt verschickt und nicht GEFALTET in einem A4 Umschlag und ich fand ihn vom Design her irgendwie auch schöner. Aber immerhin hab ich einen Kalender geschenkt gekriegt und auch wenn mir das Design von dem alten Kalender besser gefallen hat macht der sich auch ganz gut an der Wand.</p>
+
+<p><a href="wp-content/uploads/2010/11/PRE_2011-01-18-230744.jpg"><img src="http://NiciDieNase.github.com/wp-content/uploads/2010/11/PRE_2011-01-18-230744-300x224.jpg" alt="Twitter Wandkalender" title="PRE_2011-01-18-230744" width="300" height="224" class="alignnone size-medium wp-image-194" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[[Update] Serverstatistik]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/10/18/serverstatistik/"/>
+    <updated>2010-10-18T00:35:21+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/10/18/serverstatistik</id>
+    <content type="html"><![CDATA[<p>hmm.. irgendwie geht die seit Ende Juli net mehr und nicht mal ich habs gemerkt. Muss ich mir die Tage mal anschaun was da los is.
+Die Statistik is nämlich das einzige hier was (zumindest im Prinzip) regelmäßig aktualisiert wird.</p>
+
+<p>Update: Nach einer Neuinstallation von Munin geht jetzt alles wieder.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Videos [18.7.2010]]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/07/18/videos-18-7-2010/"/>
+    <updated>2010-07-18T13:17:09+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/07/18/videos-18-7-2010</id>
+    <content type="html"><![CDATA[<p>Ich habe vor Artikel wie diesen immer mal wieder zu schreiben. Einfach eine kleine Sammlung von lustig, interessanten oder sonst irgendwie sehenswerten Videos.</p>
+
+<p>Heut gibt es</p>
+
+<ul>
+    <li>einen lustigen Kurzfilm von Arte</li>
+    <li>einen Trailer für den Sharktopus, der einfach so ist schlecht das man ihn sehn muss</li>
+    <li>Leonard Nimoy (Spock) erzählt wie William Shatner (Captain Kirk) ihm während den Dreharbeiten der originalen Star Trek Serie das Fahrrad geklaut hat, einfach nur zum schief lachen</li>
+    <li>Cardboard Warfare - einen Action-Kurzfilm mit Waffen aus Pappe, echt gut gemacht</li>
+</ul>
+
+
+<p>Viel Spass beim Anschauen</p>
+
+<!--more-->
+
+
+<object id="playerArte" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="450" height="255" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="quality" value="high" /><param name="src" value="http://videos.arte.tv/videoplayer.swf?localizedPathUrl=http%3A%2F%2Fvideos%2Earte%2Etv%2Fcae%2Fstatic%2Fflash%2Fplayer%2F&amp;mode=prod&amp;admin=false&amp;configFileUrl=http%3A%2F%2Fvideos%2Earte%2Etv%2Fcae%2Fstatic%2Fflash%2Fplayer%2Fconfig%2Exml&amp;lang=de&amp;videorefFileUrl=http%3A%2F%2Fvideos%2Earte%2Etv%2Fde%2Fdo%5Fdelegate%2Fvideos%2Fder%5Ffleck%2D3311962%2Cview%2CasPlayerXml%2Exml&amp;videoId=3311962&amp;embed=true" /><param name="name" value="playerArte" /><param name="allowfullscreen" value="true" /><embed id="playerArte" type="application/x-shockwave-flash" width="450" height="255" src="http://videos.arte.tv/videoplayer.swf?localizedPathUrl=http%3A%2F%2Fvideos%2Earte%2Etv%2Fcae%2Fstatic%2Fflash%2Fplayer%2F&amp;mode=prod&amp;admin=false&amp;configFileUrl=http%3A%2F%2Fvideos%2Earte%2Etv%2Fcae%2Fstatic%2Fflash%2Fplayer%2Fconfig%2Exml&amp;lang=de&amp;videorefFileUrl=http%3A%2F%2Fvideos%2Earte%2Etv%2Fde%2Fdo%5Fdelegate%2Fvideos%2Fder%5Ffleck%2D3311962%2Cview%2CasPlayerXml%2Exml&amp;videoId=3311962&amp;embed=true" name="playerArte" quality="high" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+
+
+<object id="flashObj" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="486" height="412" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=115484214001&amp;playerID=6555681001&amp;domain=embed&amp;dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://c.brightcove.com/services/viewer/federated_f9/6555681001?isVid=1" /><param name="name" value="flashObj" /><param name="flashvars" value="videoId=115484214001&amp;playerID=6555681001&amp;domain=embed&amp;dynamicStreaming=true" /><param name="allowfullscreen" value="true" /><embed id="flashObj" type="application/x-shockwave-flash" width="486" height="412" src="http://c.brightcove.com/services/viewer/federated_f9/6555681001?isVid=1" name="flashObj" allowscriptaccess="always" swliveconnect="true" allowfullscreen="true" seamlesstabbing="false" base="http://admin.brightcove.com" flashvars="videoId=115484214001&amp;playerID=6555681001&amp;domain=embed&amp;dynamicStreaming=true" bgcolor="#FFFFFF"></embed></object>
+
+
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/9nxcw7ln9AU&amp;hl=de_DE&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="385" src="http://www.youtube.com/v/9nxcw7ln9AU&amp;hl=de_DE&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/hE-ZmwATS8E&amp;hl=de_DE&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="385" src="http://www.youtube.com/v/hE-ZmwATS8E&amp;hl=de_DE&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+<p><a href="http://www.youtube.com/watch?v=fsEE2dHZoP4">Hier</a> gibts noch ein behind the scenes-Video zu dem Papp-Panzer, echt cool das Teil.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Yeah, mein Blog ist wieder erreichbar!]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/07/16/yeah-mein-blog-ist-wieder-erreichbar/"/>
+    <updated>2010-07-16T16:17:56+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/07/16/yeah-mein-blog-ist-wieder-erreichbar</id>
+    <content type="html"><![CDATA[<p>Okay, wahrscheinlich hats ja kaum jemand gemerkt, liest ja eh (fast) niemand was ich hier schreibe.
+Aber mein Server war ne knappe Woche lang net erreichbar.
+Das ist der großer Nachteil wenn man seinen Server daheim aufstellt und per DynDNS ans Netz hängt:
+Wenn die Eltern in den Urlaub gehn und am Router den Stecker ziehn ist der Server halt mal offline!
+Zum Glück war meine Schwester grade mal kurz daheim und hat jetzt alle Stecker wieder eingesteckt. Danke Eva!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Twilight: For Guys!]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/07/09/twilight-for-guys/"/>
+    <updated>2010-07-09T15:05:43+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/07/09/twilight-for-guys</id>
+    <content type="html"><![CDATA[<p>Da gibts nicht viel zu sagen, einfach anschauen!</p>
+
+<!--more-->
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/QOpyyrtzgBU&amp;hl=de_DE&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="500" height="300" src="http://www.youtube.com/v/QOpyyrtzgBU&amp;hl=de_DE&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Festwochenende]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/07/01/festwochenende/"/>
+    <updated>2010-07-01T10:00:02+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/07/01/festwochenende</id>
+    <content type="html"><![CDATA[<p>Am vergangenen Wochenende (25.-27.6.2010) war groß was los in Karlsruhe.
+Am Freitag Abend das Parkplatzfest der Wohnheime in der Willy-Andreas-Allee und am Samstag das größte ehrenamtlich oranisierte Fest Baden-Württembergs, das legendäre Uni-Fest.</p>
+
+<p>Da hat es sich ergeben das ich mal die Videofunktion von meinem Palm-Pre etwas genutzt und von <del datetime="2010-07-01T01:57:07+00:00">ein paar</del> zwei der auftretenden Künstler ein paar kurze Videos aufgenommen habe.
+Falls die sich irgendjemand ansehn will hab ich sie mal bei YouTube hochgeladen.</p>
+
+<!--more-->
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/enJoQSglI6c&amp;hl=de_DE&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/enJoQSglI6c&amp;hl=de_DE&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/XkmuvPAvnus&amp;hl=de_DE&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/XkmuvPAvnus&amp;hl=de_DE&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/PZlpfao4s7E&amp;hl=de_DE&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/PZlpfao4s7E&amp;hl=de_DE&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/1Ce6VOn-2Ps&amp;hl=de_DE&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/1Ce6VOn-2Ps&amp;hl=de_DE&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nordkorea-Dokus]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/06/30/nordkorea-dokus/"/>
+    <updated>2010-06-30T20:18:04+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/06/30/nordkorea-dokus</id>
+    <content type="html"><![CDATA[<p>Zwei interessante Dokus über Nordkorea die letztens bei <a href="http://blog.fefe.de/">Fefe</a> verlinkt waren.
+Kann ich nur weiterempfehlen
+<strong>
+The Vice Guide to North Korea :</strong>
+<a href="http://www.vbs.tv/watch/the-vice-guide-to-travel/vice-guide-to-north-korea-1-of-3">Teil 1</a> <a href="http://www.vbs.tv/watch/the-vice-guide-to-travel/vice-guide-to-north-korea-2-of-3">Teil 2</a> <a href="http://www.vbs.tv/watch/the-vice-guide-to-travel/vice-guide-to-north-korea-3-of-3">Teil 3</a></p>
+
+<p><strong><a href="http://video.google.com/videoplay?docid=-367187207287162196#">ARTE Wunderwelten Nordkorea</a></strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jetzt hab ich nen Server und nen Blog und ...]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2010/06/25/hello-world-2/"/>
+    <updated>2010-06-25T11:13:49+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2010/06/25/hello-world-2</id>
+    <content type="html"><![CDATA[<p>Jetzt hab ich mir als Spielerei auf meinem alten Rechner nen eigenen Server aufgesetzt und was is das beste was mit damit einfällt?</p>
+
+<p>Ich setz nen Blog auf. Okay die <a href="http://nici-die-nase.selfhost.tk/stat">Statistiken</a> hab ich vorher gemacht.</p>
+
+<p>Naja, kostet ja nix.</p>
+
+<p>Und lesen <del datetime="2010-07-01T18:43:47+00:00">wirds wahrscheinlich eh keiner</del> werdens wahrscheinlich eh nicht viele.</p>
+]]></content>
+  </entry>
   
 </feed>
