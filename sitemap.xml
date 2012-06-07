@@ -65,15 +65,21 @@
         <lastmod>2012-06-07T22:50:47+02:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://NiciDieNase.github.com/blog/2012/06/07/umzug-von-wordpress-auf-octopress/
+        </loc>
+        <lastmod>2012-06-07T23:21:59+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://NiciDieNase.github.com/test/</loc>
         <lastmod>2012-06-07T20:12:14+02:00</lastmod>
     </url>
     <url>
         <loc>http://NiciDieNase.github.com/blog/archives/</loc>
-        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+        <lastmod>2012-06-07T23:21:59+02:00</lastmod>
     </url>
     <url>
         <loc>http://NiciDieNase.github.com/</loc>
-        <lastmod>2012-06-07T22:50:47+02:00</lastmod>
+        <lastmod>2012-06-07T23:21:59+02:00</lastmod>
     </url>
 </urlset>

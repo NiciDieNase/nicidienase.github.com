@@ -4,7 +4,7 @@
   <title><![CDATA[NiciDieNases Blog]]></title>
   <link href="http://NiciDieNase.github.com/atom.xml" rel="self"/>
   <link href="http://NiciDieNase.github.com/"/>
-  <updated>2012-06-07T23:13:19+02:00</updated>
+  <updated>2012-06-07T23:22:18+02:00</updated>
   <id>http://NiciDieNase.github.com/</id>
   <author>
     <name><![CDATA[NiciDieNase]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Umzug von Wordpress auf Octopress]]></title>
+    <link href="http://NiciDieNase.github.com/blog/2012/06/07/umzug-von-wordpress-auf-octopress/"/>
+    <updated>2012-06-07T23:16:00+02:00</updated>
+    <id>http://NiciDieNase.github.com/blog/2012/06/07/umzug-von-wordpress-auf-octopress</id>
+    <content type="html"><![CDATA[<p>Nachdem sich aus mir unbekannten gründen mein Wordpress abgeschossen hat und ich absolut keine Lust hatte das zu fixen und ich sowieso keine lust mehr auf Wordpress hatte läuft mein Blog jetzt mit Octopress auf GithubPages.
+Vieleicht ziehe ich das Octopress auch mal auf meinen eigenen Server zurück aber vorher muss ich die Bilder in den alten Posts wieder einfügen und die Umlaute fixen, die hats beim Umzug nämlich irgendwie kaputt gemacht.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CCCamp-OhrwÃ¼rmer]]></title>
