@@ -131,7 +131,7 @@ Ich muss allerdings sagen das mir der Kalender von Druckerei.de von letztem Jahr
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://NiciDieNase.github.com/blog/2010/11/19/twitter-wandkalender-2011/" data-via="" data-counturl="http://NiciDieNase.github.com/blog/2010/11/19/twitter-wandkalender-2011/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://NiciDieNase.github.com/blog/2010/11/19/twitter-wandkalender-2011/" data-via="NiciDieNase" data-counturl="http://NiciDieNase.github.com/blog/2010/11/19/twitter-wandkalender-2011/" >Tweet</a>
   
   
   
@@ -180,6 +180,51 @@ Ich muss allerdings sagen das mir der Kalender von Druckerei.de von letztem Jahr
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/NiciDieNase">@NiciDieNase</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'NiciDieNase',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("NiciDieNase", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/NiciDieNase" class="twitter-follow-button" data-show-count="false">Follow @NiciDieNase</a>
+  
+</section>
 
 
 

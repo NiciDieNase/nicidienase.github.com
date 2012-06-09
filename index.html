@@ -9,7 +9,7 @@
   <meta name="author" content="NiciDieNase">
 
   
-  <meta name="description" content="Nachdem sich aus mir unbekannten gründen mein Wordpress abgeschossen hat und ich absolut keine Lust hatte das zu fixen und ich sowieso keine lust &hellip;">
+  <meta name="description" content="Nachdem sich aus mir unbekannten Gründen mein Wordpress abgeschossen hat und ich absolut keine Lust hatte das zu fixen und ich sowieso keine Lust &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -70,7 +70,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/06/07/umzug-von-wordpress-auf-octopress/">Umzug Von Wordpress Auf Octopress</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/06/07/umzug-von-wordpress-auf-octopress/">Umzug von Wordpress auf Octopress</a></h1>
     
     
       <p class="meta">
@@ -93,8 +93,8 @@
   </header>
 
 
-  <div class="entry-content"><p>Nachdem sich aus mir unbekannten gründen mein Wordpress abgeschossen hat und ich absolut keine Lust hatte das zu fixen und ich sowieso keine lust mehr auf Wordpress hatte läuft mein Blog jetzt mit Octopress auf GithubPages.
-Vieleicht ziehe ich das Octopress auch mal auf meinen eigenen Server zurück aber vorher muss ich die Bilder in den alten Posts wieder einfügen und die Umlaute fixen, die hats beim Umzug nämlich irgendwie kaputt gemacht.</p>
+  <div class="entry-content"><p>Nachdem sich aus mir unbekannten Gründen mein Wordpress abgeschossen hat und ich absolut keine Lust hatte das zu fixen und ich sowieso keine Lust mehr auf Wordpress hatte läuft mein Blog jetzt mit Octopress auf GithubPages.
+Vieleicht ziehe ich das Octopress auch mal auf meinen eigenen Server zurück, aber vorher muss ich die Bilder in den alten Posts wieder einfügen und die Umlaute fixen, die hats beim Umzug nämlich irgendwie kaputt gemacht.</p>
 </div>
   
   
@@ -188,7 +188,7 @@ Vieleicht ziehe ich das Octopress auch mal auf meinen eigenen Server zurück abe
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2011/05/12/serverumzug-abgeschlossen/">Serverumzug Abgeschlossen</a></h1>
+      <h1 class="entry-title"><a href="/blog/2011/05/12/serverumzug-abgeschlossen/">Serverumzug abgeschlossen</a></h1>
     
     
       <p class="meta">
@@ -226,7 +226,7 @@ Es gibt zwar immer noch genug Kleinigkeiten an denen ich noch rumbasteln kann, a
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2011/05/06/neuer-server-neues-layout-alter-inhalt/">Neuer Server, Neues Layout, Alter Inhalt</a></h1>
+      <h1 class="entry-title"><a href="/blog/2011/05/06/neuer-server-neues-layout-alter-inhalt/">Neuer Server, Neues Layout, alter Inhalt</a></h1>
     
     
       <p class="meta">
@@ -264,7 +264,7 @@ Es gibt zwar immer noch genug Kleinigkeiten an denen ich noch rumbasteln kann, a
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2011/01/25/clifford-stoll-on-everything/">Clifford Stoll on &#8230; Everything</a></h1>
+      <h1 class="entry-title"><a href="/blog/2011/01/25/clifford-stoll-on-everything/">Clifford Stoll on &#8230; everything</a></h1>
     
     
       <p class="meta">
@@ -346,7 +346,7 @@ Es gibt zwar immer noch genug Kleinigkeiten an denen ich noch rumbasteln kann, a
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2010/12/21/meine-neue-ssd/">Meine Neue SSD</a></h1>
+      <h1 class="entry-title"><a href="/blog/2010/12/21/meine-neue-ssd/">Meine neue SSD</a></h1>
     
     
       <p class="meta">
@@ -505,6 +505,51 @@ Die Statistik is nämlich das einzige hier was (zumindest im Prinzip) regelmäß
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/NiciDieNase">@NiciDieNase</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'NiciDieNase',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("NiciDieNase", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/NiciDieNase" class="twitter-follow-button" data-show-count="false">Follow @NiciDieNase</a>
+  
+</section>
 
 
 
