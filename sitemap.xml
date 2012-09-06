@@ -71,15 +71,15 @@
         <lastmod>2012-06-09T20:16:34+02:00</lastmod>
     </url>
     <url>
-        <loc>http://NiciDieNase.github.com/test/</loc>
-        <lastmod>2012-06-07T20:12:14+02:00</lastmod>
-    </url>
-    <url>
         <loc>http://NiciDieNase.github.com/blog/archives/</loc>
         <lastmod>2012-06-09T20:16:34+02:00</lastmod>
     </url>
     <url>
         <loc>http://NiciDieNase.github.com/</loc>
         <lastmod>2012-06-09T20:16:34+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://NiciDieNase.github.com/test/</loc>
+        <lastmod>2012-06-07T20:12:14+02:00</lastmod>
     </url>
 </urlset>
